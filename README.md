@@ -2,4 +2,4 @@
 
 ![imagen](./img/background.png)
 
-# ***Crud hecho en python con flask y mysql ***
+# Crud hecho en python con flask y mysql 
